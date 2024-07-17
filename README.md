@@ -2,7 +2,7 @@ in order for this code to work, you must also have a users.txt file in which has
 
 Name
 Email
-# of movies
+/# of movies
 IDS
 
 ex:
